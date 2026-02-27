@@ -134,7 +134,7 @@ Dating App — это курсовой проект, разработанный 
 ### 👥 Раздел Анкеты
 
 <p align="center">
-    <img src="docs/screenshots/profiles-tab.png" width="500"/>
+    <img src="docs/screenshots/account-tab.png" width="500"/>
 </p>
 
 Функции:
@@ -161,7 +161,7 @@ Dating App — это курсовой проект, разработанный 
 ### 👤 Аккаунт
 
 <p align="center">
-  <img src="docs/screenshots/account-tab.png" width="500"/>
+  <img src="docs/screenshots/profiles-tab.png" width="500"/>
 </p>
 
 Позволяет:

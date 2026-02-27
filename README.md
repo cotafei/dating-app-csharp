@@ -35,6 +35,7 @@
    ├── app-scheme.png
    ├── database-diagram.png
    ├── idef 0.png
+   ├── idef 3.png
    ├── technical-specification.md
    ├── ui-scheme.png
    └── screenshots/
